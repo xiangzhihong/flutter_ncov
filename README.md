@@ -10,7 +10,7 @@ https://github.com/programmerauthor/spread-information
 ## 体验地址
 
 ![ABC](https://www.pgyer.com/app/qrcode/pITM?sign=%252B6mLc5rojgNe5rOhi79i09NRio5QoXtZv1EEpiAMnY9lriIhcQMaDZxdfKr3Yrof&auSign=&code=)
-
+体验密码：123456
 
 ## 应用截图
 ![ABC](https://github.com/xiangzhihong/flutter_ncov/blob/master/screenshut/merge.jpg) 
