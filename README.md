@@ -10,6 +10,8 @@ https://github.com/programmerauthor/spread-information
 ## 体验地址
 
 ![ABC](https://www.pgyer.com/app/qrcode/pITM?sign=%252B6mLc5rojgNe5rOhi79i09NRio5QoXtZv1EEpiAMnY9lriIhcQMaDZxdfKr3Yrof&auSign=&code=)
+图片加载不出来可以点击下面链接：https://www.pgyer.com/app/qrcode/pITM
+
 体验密码：123456
 
 ## 应用截图
