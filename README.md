@@ -8,7 +8,9 @@ https://github.com/fluttercandies/ncov_2019
 https://github.com/programmerauthor/spread-information
 
 ## 体验地址
-https://www.pgyer.com/app/qrcode/pITM?sign=%252B6mLc5rojgNe5rOhi79i09NRio5QoXtZv1EEpiAMnY9lriIhcQMaDZxdfKr3Yrof&auSign=&code=
+
+![ABC](https://www.pgyer.com/app/qrcode/pITM?sign=%252B6mLc5rojgNe5rOhi79i09NRio5QoXtZv1EEpiAMnY9lriIhcQMaDZxdfKr3Yrof&auSign=&code=)
+
 
 ## 应用截图
 ![ABC](https://github.com/xiangzhihong/flutter_ncov/blob/master/screenshut/merge.jpg) 
