@@ -1,0 +1,233 @@
+{
+    "id": 1,
+    "createTime": 1579537899000,
+    "modifyTime": 1584417900000,
+    "infectSource": "该字段已替换为说明2",
+    "passWay": "该字段已替换为说明3",
+    "imgUrl": "http://49.232.173.220:3001/images/distribution-nationale.png?time=1584418374104",
+    "dailyPic": "https://img1.dxycdn.com/2020/0211/763/3395998884005602079-135.png,https://img1.dxycdn.com/2020/0211/362/3395998896890788910-135.png,https://img1.dxycdn.com/2020/0211/365/3395998905480724211-135.png,https://img1.dxycdn.com/2020/0211/364/3395998916217859778-135.png,https://img1.dxycdn.com/2020/0211/922/3395998929103046444-135.png,https://img1.dxycdn.com/2020/0211/089/3395998939840182072-135.png",
+    "dailyPics": [
+        "https://img1.dxycdn.com/2020/0211/763/3395998884005602079-135.png",
+        "https://img1.dxycdn.com/2020/0211/362/3395998896890788910-135.png",
+        "https://img1.dxycdn.com/2020/0211/365/3395998905480724211-135.png",
+        "https://img1.dxycdn.com/2020/0211/364/3395998916217859778-135.png",
+        "https://img1.dxycdn.com/2020/0211/922/3395998929103046444-135.png",
+        "https://img1.dxycdn.com/2020/0211/089/3395998939840182072-135.png"
+    ],
+    "summary": "",
+    "deleted": false,
+    "countRemark": "",
+    "currentConfirmedCount": 9087,
+    "confirmedCount": 81117,
+    "suspectedCount": 143,
+    "curedCount": 68799,
+    "deadCount": 3231,
+    "seriousCount": 2830,
+    "suspectedIncr": 20,
+    "currentConfirmedIncr": -909,
+    "confirmedIncr": 40,
+    "curedIncr": 936,
+    "deadIncr": 13,
+    "seriousIncr": -202,
+    "virus": "该字段已替换为说明1",
+    "remark1": "易感人群：人群普遍易感。老年人及有基础疾病者感染后病情较重，儿童及婴幼儿也有发病",
+    "remark2": "潜伏期：一般为 3～7 天，最长不超过 14 天，潜伏期内可能存在传染性，其中无症状病例传染性非常罕见",
+    "remark3": "宿主：野生动物，可能为中华菊头蝠",
+    "remark4": "",
+    "remark5": "",
+    "note1": "病毒：SARS-CoV-2，其导致疾病命名 COVID-19",
+    "note2": "传染源：新冠肺炎的患者。无症状感染者也可能成为传染源。",
+    "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
+    "generalRemark": "1. 3 月 12 日国家卫健委确诊补订遗漏 12 例确诊病例（非 12 日新增），暂无具体省份信息。 2. 浙江省 12 例外省治愈暂无具体省份信息。",
+    "abroadRemark": "",
+    "marquee": [
+        {
+            "id": 1437,
+            "marqueeLabel": "凯旋",
+            "marqueeContent": "援助湖北医疗队今日开始陆续撤离",
+            "marqueeLink": "https://dxy.me/qWdd00"
+        },
+        {
+            "id": 1438,
+            "marqueeLabel": "北京警方",
+            "marqueeContent": "服退热药登机返京女子被立案侦查",
+            "marqueeLink": "https://dxy.me/3kXiS8"
+        },
+        {
+            "id": 1439,
+            "marqueeLabel": "西班牙",
+            "marqueeContent": "两位大区主席同日确诊新冠病毒感染",
+            "marqueeLink": "https://dxy.me/a83u0C"
+        }
+    ],
+    "quanguoTrendChart": [
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/639/3402486464318700914-135.png",
+            "title": "新增疑似/新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/428/3402486492235989272-135.png",
+            "title": "现存确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/513/3402486509415611588-135.png",
+            "title": "现存疑似"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/199/3402486533037932515-135.png",
+            "title": "治愈"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/411/3402486556660500778-135.png",
+            "title": "死亡"
+        }
+    ],
+    "hbFeiHbTrendChart": [
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/125/3402496596146414521-135.png",
+            "title": "非湖北新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/214/3402486670477137705-135.png",
+            "title": "湖北新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/634/3402486681214556396-135.png",
+            "title": "湖北现存确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/398/3402486696246695314-135.png",
+            "title": "非湖北现存确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/144/3402486715574295940-135.png",
+            "title": "治愈/死亡"
+        }
+    ],
+    "foreignTrendChart": [
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/964/3402499931188427073-135.png",
+            "title": "国外新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/686/3402500027825195418-135.png",
+            "title": "国外累计确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/836/3402500075069837652-135.png",
+            "title": "国外死亡"
+        }
+    ],
+    "importantForeignTrendChart": [
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/733/3402500210361546544-135.png",
+            "title": "重点国家新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/829/3402500223246448949-135.png",
+            "title": "日本新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/375/3402500242573802476-135.png",
+            "title": "意大利新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/127/3402500255458471410-135.png",
+            "title": "伊朗新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/921/3402500270490857647-135.png",
+            "title": "美国新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/362/3402500283375993500-135.png",
+            "title": "法国新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/940/3402500296260895934-135.png",
+            "title": "德国新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/972/3402500311293048662-135.png",
+            "title": "西班牙新增确诊"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/132/3402500324177951129-135.png",
+            "title": "韩国新增确诊"
+        }
+    ],
+    "foreignTrendChartGlobal": [
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/132/3402500371422827029-135.png",
+            "title": "Daily New Cases"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/912/3402500384307495985-135.png",
+            "title": "Total Confirmed Cases"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/733/3402500397192398352-135.png",
+            "title": "Total Deaths Cases"
+        }
+    ],
+    "importantForeignTrendChartGlobal": [
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/729/3402500435847339228-135.png",
+            "title": "Daily New Cases"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/929/3402500448732008392-135.png",
+            "title": "Japan"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/264/3402500461617144084-135.png",
+            "title": "Italy"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/656/3402500543221293580-135.png",
+            "title": "Iran"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/061/3402500558253912953-135.png",
+            "title": "U.S.A."
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/409/3402500571138815505-135.png",
+            "title": "France"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/770/3402500584023717844-135.png",
+            "title": "Germany"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/535/3402500633415611112-135.png",
+            "title": "Spain"
+        },
+        {
+            "imgUrl": "https://img1.dxycdn.com/2020/0317/498/3402500674217802166-135.png",
+            "title": "Republic of Korea"
+        }
+    ],
+    "foreignStatistics": {
+        "currentConfirmedCount": 84422,
+        "confirmedCount": 98939,
+        "suspectedCount": 0,
+        "curedCount": 10666,
+        "deadCount": 3851,
+        "suspectedIncr": 0,
+        "currentConfirmedIncr": 7025,
+        "confirmedIncr": 7926,
+        "curedIncr": 485,
+        "deadIncr": 416
+    },
+    "globalStatistics": {
+        "currentConfirmedCount": 93509,
+        "confirmedCount": 180056,
+        "curedCount": 79465,
+        "deadCount": 7082,
+        "currentConfirmedIncr": 6116,
+        "confirmedIncr": 7966,
+        "curedIncr": 1421,
+        "deadIncr": 429
+    }
+}

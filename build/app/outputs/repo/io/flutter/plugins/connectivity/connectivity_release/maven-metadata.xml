@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.flutter.plugins.connectivity</groupId>
+  <artifactId>connectivity_release</artifactId>
+  <versioning>
+    <release>1.0</release>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20200414131951</lastUpdated>
+  </versioning>
+</metadata>

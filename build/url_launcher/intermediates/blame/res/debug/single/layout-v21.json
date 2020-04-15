@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

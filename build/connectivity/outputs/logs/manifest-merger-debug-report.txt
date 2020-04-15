@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:2:3-44
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:3:3-76
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:3:20-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:4:3-74
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml:4:20-71
+uses-sdk
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.8+1/android/src/main/AndroidManifest.xml

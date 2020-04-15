@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable/notification_bg_low.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/6f6f82fa71b2b8883ffbf1cfa5a803ba/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    }
+]

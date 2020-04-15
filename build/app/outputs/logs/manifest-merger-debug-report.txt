@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:fluttertoast] /Users/xiangzhihong/Flutter/workspace/chapter13/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] /Users/xiangzhihong/Flutter/workspace/chapter13/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info] /Users/xiangzhihong/Flutter/workspace/chapter13/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/xiangzhihong/Flutter/workspace/chapter13/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/xiangzhihong/Flutter/workspace/chapter13/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/path_provider_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:connectivity_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-24:12
+MERGED from [:shared_preferences] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:shared_preferences_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] /Users/xiangzhihong/Flutter/workspace/chapter13/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_web] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/04302e33965a9c26137210f81826ce51/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/a12852e9c64d4103506ed6c0b53596aa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0b881c42a94b28687961f47fa5ed522e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/cbcb9f711620dfd4f19564c3056483b2/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/bb8036c7933e8e5ceaec8b7603c4e5f4/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/676e76238d1542d63c947064b499f9fc/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ac245c674d04596a28c28e7a8a98bb8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/edae6df00f12fae8ef016efef2b0bbfa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/b703983767c5c1a4dbfcf66ff64dc1e6/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0d6e172b51eef950425402698297c300/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/e435f87bc23356a6c2edb8b9068f6a2e/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/c64dfa353ecd6d64eff18cb0a1f54ce3/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/220cabcfcf0af6a50928334723386077/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ba259a5303a3c3e459f6e6bbd1355c1f/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ea8b58f76a661e48f292c40441f5716d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/28846095b959af32a3cea014a84a18b2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/f54b2868153be14ea542459a9b80b017/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/53c41c518f71a9bf7bf34fb6b7763726/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/15fc98c9da3b7721e2aa3be9323b4490/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/5ce1335dc9f84ae461c82481b80a5b84/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0c41f24f7459e73f66ae9f1ce03cb79b/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/4ecf40e5d96b403737499e39f65f1adb/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/63b4efd73ecc3f7e6b4fb88eb863e0c1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/a0ec77d99ff639db72f069603cd714d5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/2a80d1c5d9f4d19e47bf28515d72e6f8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/25803a9d126831f33a3fddf3935cb10a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/8c1eada99b6a6dc5d8644197a8e5886a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/4dcf2381e3993fb0f76fc112cc6a77e6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0600b64118e04b0250a610063e40775f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/d7baa7d820733d72b5e45f75a9ada7d3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [:connectivity] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:12:5-76
+MERGED from [:connectivity] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-76
+MERGED from [:connectivity] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:13:5-82
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-83
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:13:22-80
+application
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:15:5-37:19
+MERGED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-22:19
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-22:19
+MERGED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:17:9-32
+	android:icon
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:networkSecurityConfig
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.example.chapter13.MainActivity
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:20:9-31:20
+	android:launchMode
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:24:13-163
+	android:theme
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:29:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:34:9-36:33
+	android:value
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:36:13-30
+	android:name
+		ADDED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:35:13-44
+uses-sdk
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml
+MERGED from [:fluttertoast] /Users/xiangzhihong/Flutter/workspace/chapter13/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/xiangzhihong/Flutter/workspace/chapter13/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/xiangzhihong/Flutter/workspace/chapter13/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/xiangzhihong/Flutter/workspace/chapter13/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/xiangzhihong/Flutter/workspace/chapter13/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/xiangzhihong/Flutter/workspace/chapter13/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/xiangzhihong/Flutter/workspace/chapter13/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/xiangzhihong/Flutter/workspace/chapter13/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/xiangzhihong/Flutter/workspace/chapter13/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/xiangzhihong/Flutter/workspace/chapter13/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/path_provider_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/path_provider_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/connectivity_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:shared_preferences] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/xiangzhihong/Flutter/workspace/chapter13/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/xiangzhihong/Flutter/workspace/chapter13/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/04302e33965a9c26137210f81826ce51/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/04302e33965a9c26137210f81826ce51/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/a12852e9c64d4103506ed6c0b53596aa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/a12852e9c64d4103506ed6c0b53596aa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0b881c42a94b28687961f47fa5ed522e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0b881c42a94b28687961f47fa5ed522e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/cbcb9f711620dfd4f19564c3056483b2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/cbcb9f711620dfd4f19564c3056483b2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/bb8036c7933e8e5ceaec8b7603c4e5f4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/bb8036c7933e8e5ceaec8b7603c4e5f4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/676e76238d1542d63c947064b499f9fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/676e76238d1542d63c947064b499f9fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ac245c674d04596a28c28e7a8a98bb8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ac245c674d04596a28c28e7a8a98bb8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/edae6df00f12fae8ef016efef2b0bbfa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/edae6df00f12fae8ef016efef2b0bbfa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/b703983767c5c1a4dbfcf66ff64dc1e6/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/b703983767c5c1a4dbfcf66ff64dc1e6/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0d6e172b51eef950425402698297c300/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0d6e172b51eef950425402698297c300/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/e435f87bc23356a6c2edb8b9068f6a2e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/e435f87bc23356a6c2edb8b9068f6a2e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/c64dfa353ecd6d64eff18cb0a1f54ce3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/c64dfa353ecd6d64eff18cb0a1f54ce3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/220cabcfcf0af6a50928334723386077/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/220cabcfcf0af6a50928334723386077/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ba259a5303a3c3e459f6e6bbd1355c1f/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ba259a5303a3c3e459f6e6bbd1355c1f/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ea8b58f76a661e48f292c40441f5716d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/ea8b58f76a661e48f292c40441f5716d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/28846095b959af32a3cea014a84a18b2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/28846095b959af32a3cea014a84a18b2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/f54b2868153be14ea542459a9b80b017/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/f54b2868153be14ea542459a9b80b017/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/53c41c518f71a9bf7bf34fb6b7763726/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/53c41c518f71a9bf7bf34fb6b7763726/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/15fc98c9da3b7721e2aa3be9323b4490/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/15fc98c9da3b7721e2aa3be9323b4490/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/5ce1335dc9f84ae461c82481b80a5b84/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/5ce1335dc9f84ae461c82481b80a5b84/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0c41f24f7459e73f66ae9f1ce03cb79b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0c41f24f7459e73f66ae9f1ce03cb79b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/4ecf40e5d96b403737499e39f65f1adb/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/4ecf40e5d96b403737499e39f65f1adb/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/63b4efd73ecc3f7e6b4fb88eb863e0c1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/63b4efd73ecc3f7e6b4fb88eb863e0c1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/a0ec77d99ff639db72f069603cd714d5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/a0ec77d99ff639db72f069603cd714d5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/2a80d1c5d9f4d19e47bf28515d72e6f8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/2a80d1c5d9f4d19e47bf28515d72e6f8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/25803a9d126831f33a3fddf3935cb10a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/25803a9d126831f33a3fddf3935cb10a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/8c1eada99b6a6dc5d8644197a8e5886a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/8c1eada99b6a6dc5d8644197a8e5886a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/4dcf2381e3993fb0f76fc112cc6a77e6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/4dcf2381e3993fb0f76fc112cc6a77e6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0600b64118e04b0250a610063e40775f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/0600b64118e04b0250a610063e40775f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/d7baa7d820733d72b5e45f75a9ada7d3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/d7baa7d820733d72b5e45f75a9ada7d3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/debug/AndroidManifest.xml
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-18:20
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-21:20
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-21:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-64
+		REJECTED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:53
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:53
+MERGED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-50
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-77
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74

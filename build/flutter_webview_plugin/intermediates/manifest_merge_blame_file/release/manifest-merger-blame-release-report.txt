@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.flutter_webview_plugin" >
+5
+6    <uses-sdk android:minSdkVersion="16" />
+6-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml
+7
+8    <application>
+8-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:5:5-16:19
+9        <provider
+9-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:6:9-15:20
+10            android:name="androidx.core.content.FileProvider"
+10-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:7:13-62
+11            android:authorities="dollar_openBracket_applicationId_closeBracket.fileprovider"
+11-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:8:13-64
+12            android:exported="false"
+12-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:9:13-37
+13            android:grantUriPermissions="true"
+13-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:10:13-47
+14            tools:replace="android:authorities" >
+14-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:11:13-48
+15            <meta-data
+15-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:12:13-14:53
+16                android:name="android.support.FILE_PROVIDER_PATHS"
+16-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:13:17-67
+17                android:resource="@xml/filepaths" />
+17-->/Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/android/src/main/AndroidManifest.xml:14:17-50
+18        </provider>
+19    </application>
+20
+21</manifest>

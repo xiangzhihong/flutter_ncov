@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml:1:1-2:12
+	package
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml:1:11-54
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml:1:1-2:12
+uses-sdk
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangzhihong/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+9/android/src/main/AndroidManifest.xml

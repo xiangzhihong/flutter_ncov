@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.chapter13"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:9:5-67
+14-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:10:5-75
+15-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:10:22-72
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:11:5-79
+16-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:12:5-76
+17-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:12:22-73
+18    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+18-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:13:5-82
+18-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:13:22-80
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->[:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-80
+19-->[:open_file] /Users/xiangzhihong/Flutter/workspace/chapter13/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-77
+20
+21    <application
+21-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:15:5-37:19
+22        android:name="io.flutter.app.FlutterApplication"
+22-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:16:9-57
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.1.0] /Users/xiangzhihong/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:18:9-43
+26        android:label="肺炎疫情小助手"
+26-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:17:9-32
+27        android:networkSecurityConfig="@xml/network_security_config" >
+27-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:19:9-69
+28        <activity
+28-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:20:9-31:20
+29            android:name="com.example.chapter13.MainActivity"
+29-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:21:13-41
+30            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+30-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:24:13-163
+31            android:hardwareAccelerated="true"
+31-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:25:13-47
+32            android:launchMode="singleTop"
+32-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:22:13-43
+33            android:theme="@style/LaunchTheme"
+33-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:23:13-47
+34            android:windowSoftInputMode="adjustResize" >
+34-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:26:13-55
+35            <intent-filter>
+35-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:27:13-30:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:28:17-68
+36-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:28:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:29:17-76
+38-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:29:27-74
+39            </intent-filter>
+40        </activity>
+41        <!--
+42             Don't delete the meta-data below.
+43             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+44        -->
+45        <meta-data
+45-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:34:9-36:33
+46            android:name="flutterEmbedding"
+46-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:35:13-44
+47            android:value="2" />
+47-->/Users/xiangzhihong/Flutter/workspace/chapter13/android/app/src/main/AndroidManifest.xml:36:13-30
+48
+49        <provider
+49-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-18:20
+50            android:name="androidx.core.content.FileProvider"
+50-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-62
+51            android:authorities="com.example.chapter13.fileprovider"
+51-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-64
+52            android:exported="false"
+52-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-37
+53            android:grantUriPermissions="true" >
+53-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-47
+54            <meta-data
+54-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:53
+55                android:name="android.support.FILE_PROVIDER_PATHS"
+55-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+56                android:resource="@xml/filepaths" />
+56-->[:flutter_webview_plugin] /Users/xiangzhihong/Flutter/workspace/chapter13/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-50
+57        </provider>
+58
+59        <activity
+59-->[:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+60            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+60-->[:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+61            android:exported="false"
+61-->[:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+62            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+62-->[:url_launcher] /Users/xiangzhihong/Flutter/workspace/chapter13/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+63    </application>
+64
+65</manifest>
