@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:chapter13/dao/home_dao.dart';
 import 'package:chapter13/dao/map_area_dao.dart';
 import 'package:chapter13/dao/map_distribute_dao.dart';
@@ -30,33 +32,40 @@ class TabDomesticPage extends StatefulWidget {
 class _MapTabDomesticState extends State<TabDomesticPage> {
   bool _loading = true;
   HomeModel homeModel=null;
-  MapDistributeModel disModel=null;
+  List<MapDistribute> listDistribute=null;
   List<dynamic> areas = List();
+
+  var _futureBuilder;
 
   @override
   void initState() {
+    _futureBuilder=_handleRefresh();
     super.initState();
-    _handleRefresh();
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: LoadingContainer(
-          isLoading: _loading,
-          child: Stack(
-            children: <Widget>[
-              MediaQuery.removePadding(
-                removeTop: true,
-                context: context,
-                child: RefreshIndicator(
-                    onRefresh: _handleRefresh,
-                    child: NotificationListener(
-                      child: _listView,
-                    )),
-              ),
-            ],
-          )),
+      body: FutureBuilder(
+         future: _futureBuilder,
+         builder: (BuildContext context, AsyncSnapshot snapShot) {
+           return LoadingContainer(
+               isLoading: _loading,
+               child: Stack(
+                 children: <Widget>[
+                   MediaQuery.removePadding(
+                     removeTop: true,
+                     context: context,
+                     child: RefreshIndicator(
+                         onRefresh: _handleRefresh,
+                         child: NotificationListener(
+                           child: _listView,
+                         )),
+                   ),
+                 ],
+               ));
+         },
+      ),
     );
   }
 
@@ -70,7 +79,7 @@ class _MapTabDomesticState extends State<TabDomesticPage> {
           TitleView('全国疫情'),
           DomesticInfoView(model: homeModel),
           TitleView('疫情地图'),
-          MapDistributeWidget(models: disModel.results),
+          MapDistributeWidget(lists:listDistribute),
           TitleView('疫情趋势'),
           DomesticMapView(model: homeModel),
           TitleView(
@@ -99,20 +108,26 @@ class _MapTabDomesticState extends State<TabDomesticPage> {
     });
   }
 
-  //下拉刷新
+  //下拉刷新,串行请求
   Future<Null> _handleRefresh() async {
     try {
-      HomeModel model = await HomeDao.fetch();
-      MapDistributeModel distribute=await DistributeDao.getDatas();
-      AreaDao.getAreaData().then((area) {
-        if(model!=null && distribute!=null){
-          setState(() {
-            areas = area;
-            homeModel = model;
-            disModel=distribute;
-            _loading = false;
-          });
-        }
+       HomeDao.fetch().then((home){
+         HomeModel model=home;
+
+         DistributeDao.getDatas().then((dis){
+           MapDistributeModel distribute=dis;
+           print('_handleRefresh dis: '+distribute.results.toString());
+           AreaDao.getAreaData().then((area) {
+             if(model!=null && distribute!=null){
+               setState(() {
+                 areas = area;
+                 homeModel = model;
+                 listDistribute=distribute.results;
+                 _loading = false;
+               });
+             }
+           });
+         });
       });
     } catch (e) {
       setState(() {

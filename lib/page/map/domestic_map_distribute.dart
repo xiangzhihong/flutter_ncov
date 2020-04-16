@@ -6,13 +6,13 @@ import 'dart:convert';
 
 class MapDistributeWidget extends StatelessWidget {
 
-  final List<MapDistribute> models;
-  MapDistributeWidget({@required this.models});
+  final List<MapDistribute> lists;
+  MapDistributeWidget({@required this.lists});
 
   @override
   Widget build(BuildContext context) {
     return Container(
-        child: MyWebView(models:this.models),
+        child: MyWebView(models:this.lists),
     );
   }
 }
