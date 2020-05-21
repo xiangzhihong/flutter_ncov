@@ -22,6 +22,7 @@ class IndexPage extends StatefulWidget {
 class _IndexPageState extends State<IndexPage> {
 
   int _selectIndex = 0;
+  DateTime lastTime;
 
   final List<BottomNavigationBarItem> bottomTabs = [
     BottomNavigationBarItem(
@@ -75,15 +76,14 @@ class _IndexPageState extends State<IndexPage> {
         ),
       ),
       onWillPop: () async{
-        DateTime last ;
-        if(last == null || DateTime.now().difference(last) > Duration(seconds: 2)){
-          last = DateTime.now();
-          ToastUtil.show('再按一次退出应用');
-        }else{
-          last = DateTime.now();
-          // 退出app
-          await SystemChannels.platform.invokeMethod('SystemNavigator.pop');
-        }
+        if(lastTime == null || DateTime.now().difference(lastTime) > Duration(seconds: 2)){
+            lastTime = DateTime.now();
+            ToastUtil.show(  '再按一次退出应用');
+          }else{
+            lastTime = DateTime.now();
+            // 退出app
+            await SystemChannels.platform.invokeMethod('SystemNavigator.pop');
+          }
       },
     );
   }
